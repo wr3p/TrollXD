@@ -1,9 +1,2 @@
-# Supported languages with their corresponding language codes, you can add here (ISO 639-1, fg: de = German)
-languages:
-  - tur
-  - en
-
-language: en
-
 # If you want to use it, paste your url.
 webhookapi: ""
